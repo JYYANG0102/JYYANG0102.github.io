@@ -14,14 +14,14 @@
     </url>
     
     <url>
-        <loc>http://yoursite-url/about/</loc>
+        <loc>http://yoursite-url/archive/</loc>
         <lastmod>2021-11-04T09:24:59.258Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://yoursite-url/archive/</loc>
+        <loc>http://yoursite-url/about/</loc>
         <lastmod>2021-11-04T09:24:59.258Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
