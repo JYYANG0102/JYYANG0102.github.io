@@ -31,14 +31,14 @@
 
     <url>
         <loc>http://yoursite-url/tags/Mac/</loc>
-        <lastmod>2021-11-13T09:08:33.806Z</lastmod>
+        <lastmod>2021-11-14T08:54:48.715Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://yoursite-url/tags/Homebrew/</loc>
-        <lastmod>2021-11-13T09:08:33.806Z</lastmod>
+        <lastmod>2021-11-14T08:54:48.715Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
