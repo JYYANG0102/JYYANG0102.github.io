@@ -21,13 +21,6 @@
     </url>
     
     <url>
-        <loc>http://yoursite-url/404.html</loc>
-        <lastmod>2021-11-13T03:51:13.120Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
         <loc>http://yoursite-url/link/</loc>
         <lastmod>2021-11-13T03:39:18.184Z</lastmod>
         <changefreq>weekly</changefreq>
