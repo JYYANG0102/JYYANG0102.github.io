@@ -2,13 +2,6 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://jyyang0102.github.io/tags/Blog/</loc>
-        <lastmod>2021-11-13T03:27:22.293Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://jyyang0102.github.io/tags/Linux/</loc>
         <lastmod>2021-11-13T09:01:59.120Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -37,14 +30,14 @@
     </url>
 
     <url>
-        <loc>http://jyyang0102.github.io/tags/Hexo/</loc>
+        <loc>http://jyyang0102.github.io/tags/GitHub/</loc>
         <lastmod>2021-11-21T10:39:41.440Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://jyyang0102.github.io/tags/GitHub/</loc>
+        <loc>http://jyyang0102.github.io/tags/Hexo/</loc>
         <lastmod>2021-11-21T10:39:41.440Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
