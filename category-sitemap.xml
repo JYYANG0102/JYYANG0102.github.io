@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://yoursite-url</loc>
+        <loc>http://jyyang0102.github.io</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
     <url>
-        <loc>http://yoursite-url/categories/%25E5%2585%25B3%25E4%25BA%258E%25E4%25BB%25A3%25E7%25A0%2581%25E7%259A%2584%25E6%2597%25A5%25E5%25AD%2590/</loc>
+        <loc>http://jyyang0102.github.io/categories/%25E5%2585%25B3%25E4%25BA%258E%25E4%25BB%25A3%25E7%25A0%2581%25E7%259A%2584%25E6%2597%25A5%25E5%25AD%2590/</loc>
         <lastmod>2021-11-21T10:39:41.440Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
